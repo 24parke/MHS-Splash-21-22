@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "Millburn-Splash-21-22",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
